@@ -1,25 +1,19 @@
 # Título
-Evaluación de Escalabilidad y Disponibilidad de la Arquitectura
+Evaluación de Tecnologías de Supervisión y Control
 
 ## Estado
 En curso
 
 ## Contexto
-La arquitectura propuesta para el sistema de monitoreo de la red eléctrica debe cumplir con los siguientes requisitos de escalabilidad y disponibilidad:
-
-Escalabilidad: El sistema debe ser capaz de escalarse para satisfacer las necesidades futuras del TSO.
-
-Disponibilidad: El sistema debe estar disponible 24/7.
+El sistema de supervisión y control de la red eléctrica de alta tensión (SCADA) actual está llegando al final de su vida útil. Se necesita un nuevo sistema que sea más flexible y escalable para satisfacer las necesidades futuras de la red eléctrica.
 
 ## Decisión
-Se ha decidido realizar una evaluación detallada de la arquitectura para garantizar su escalabilidad y disponibilidad. La evaluación incluirá los siguientes aspectos:
+Se ha iniciado una evaluación de tecnologías que incluya la consideración de los siguientes componentes potenciales de la futura arquitectura:
 
-
--Análisis de los requisitos de escalabilidad y disponibilidad: Se analizarán los requisitos de escalabilidad y disponibilidad del sistema para identificar los aspectos críticos de la arquitectura que deben ser evaluados.
-
--Simulación de escenarios de carga de trabajo: Se simularán escenarios de carga de trabajo para evaluar el rendimiento de la arquitectura.
-
--Análisis de la arquitectura: Se analizará la arquitectura para identificar posibles cuellos de botella o áreas de mejora.
+Transmisión de datos: El nuevo sistema debe ser capaz de transmitir datos de forma eficiente y segura.
+Microservicios: El nuevo sistema debe ser modular y escalable.
+Escalado automático: El nuevo sistema debe ser capaz de escalarse automáticamente para satisfacer la demanda.
+Big data: El nuevo sistema debe ser capaz de procesar grandes cantidades de datos.
 
 ## Consecuencias
-La evaluación de la escalabilidad y disponibilidad de la arquitectura permitirá identificar áreas de mejora y asegurará un rendimiento óptimo del sistema.
+Se espera identificar tecnologías que sean más flexibles y escalables que el sistema SCADA actual. Sin embargo, la evaluación requerirá un análisis detallado y pruebas.
